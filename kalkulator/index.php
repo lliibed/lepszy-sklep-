@@ -34,6 +34,7 @@ $oferta = [
     8  => new Produkt(8, "Pamięć RAM DDR5 32GB", 550, "Elektronika"),
     9  => new Produkt(9, "Dysk SSD NVMe 1TB", 320, "Elektronika"),
     10 => new Produkt(10, "Zasilacz 750W Gold", 420, "Elektronika"),
+    11 => new Product(11, "Karta graficzna NVIDIA GeForce GT730 4GB DDR3", 1, "Elektronika"),
     // TELEFONY
     11 => new Produkt(11, "Smartfon Flagowy 5G", 4200, "Telefony"),
     12 => new Produkt(12, "Tablet 11 cali", 2100, "Telefony"),
